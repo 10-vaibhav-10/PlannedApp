@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211001459871",
+    "project_id": "myapplication-08a59ced",
+    "storage_bucket": "myapplication-08a59ced.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211001459871:android:7c6a884d3ba3f0668dceaa",
+        "android_client_info": {
+          "package_name": "com.dateabook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRSrLEyvBwgOkV39DEFsezDYbiHZyEVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

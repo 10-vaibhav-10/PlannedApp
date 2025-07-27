@@ -1,0 +1,10 @@
+<string name="loading">Loading...</string>
+<string name="book_not_found">Book not found</string>
+<string name="success">Success!</string>
+<string name="swap_request_sent">Your swap request has been sent!</string>
+<string name="ok">OK</string>
+<string name="book_cover">Cover image for %1$s</string>
+<string name="by_author">by %1$s</string>
+<string name="no_description">No description available</string>
+<string name="request_pending">Request Pending</string>
+<string name="request_swap">Request Swap</string>
